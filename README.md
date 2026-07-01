@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Naima
 
-<!--
-**NaimaX-dev/NaimaX-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student | Web Development Learner  
+🚀 Passionate about building real-world projects  
+🌱 Currently learning React.js, Node.js & Full Stack Development  
+🎯 Goal: Become a skilled Full Stack Developer & get internship experience  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- React.js (learning)  
+- Node.js & Express (basic)  
+- Git & GitHub  
+- MySQL / MongoDB (learning)
+
+---
+
+## 📌 Projects
+- AI-Powered CV Analyzer & Job Portal (Final Year Project 🚀)  
+- More projects coming soon...
+
+---
+
+## 📈 Currently Working On
+- Improving React skills  
+- Building full stack projects  
+- GitHub profile improvement  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/NaimaX-dev  
+- Email: naima56315@gmail.com  
+
+---
+
+✨ Thanks for visiting my profile!
