@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Naima
 
-💻 Computer Science student | Web Development Learner  
+💻 Computer Science Student | 🌐 Web Development Learner  
 🚀 Passionate about building real-world projects  
 🌱 Currently learning React.js, Node.js & Full Stack Development  
-🎯 Goal: Become a skilled Full Stack Developer & get internship experience  
+🎯 Goal: Become a skilled Full Stack Developer and gain internship experience  
 
 ---
 
@@ -23,9 +23,9 @@
 ---
 
 ## 📈 Currently Working On
-- Improving React skills  
-- Building full stack projects  
-- GitHub profile improvement  
+- Improving React.js skills  
+- Building full-stack projects  
+- Enhancing GitHub profile  
 
 ---
 
