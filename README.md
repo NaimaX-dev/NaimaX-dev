@@ -1,37 +1,72 @@
-## Hi there 👋 I'm Naima
+# Hi there 👋 I'm Naima
 
-💻 Computer Science Student | 🌐 Web Development Learner  
-🚀 Passionate about building real-world projects  
-🌱 Currently learning React.js, Node.js & Full Stack Development  
-🎯 Goal: Become a skilled Full Stack Developer and gain internship experience  
+🎓 Final Year BS Computer Science Student  
+💻 Aspiring Full Stack Web Developer  
+🤖 Interested in Web Development & Artificial Intelligence  
+
+🚀 Passionate about building real-world applications and solving problems through technology.
+
+🌱 Currently improving my skills in React.js, Node.js, Express.js and Full Stack Development.
+
+🎯 Goal: Become a skilled Full Stack Developer and gain professional industry experience.
 
 ---
 
 ## 🛠️ Skills
-- HTML, CSS, JavaScript  
-- React.js (learning)  
-- Node.js & Express (basic)  
-- Git & GitHub  
-- MySQL / MongoDB (learning)
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- Postman
 
 ---
 
-## 📌 Projects
-- AI-Powered CV Analyzer & Job Portal (Final Year Project 🚀)  
-- More projects coming soon...
+## 🚀 Featured Project
+
+### AI-Powered CV Analyzer & Job Portal (Final Year Project)
+
+An AI-based platform that helps job seekers analyze their CVs, identify skill gaps, and find suitable job opportunities.
+
+**Technologies Used:**
+React.js | Node.js | Express.js | MongoDB | Python NLP
+
+**Key Features:**
+- CV Upload & Analysis
+- Skill Detection
+- CV Scoring
+- Job Recommendations
+- Employer Dashboard
 
 ---
 
 ## 📈 Currently Working On
-- Improving React.js skills  
-- Building full-stack projects  
-- Enhancing GitHub profile  
+
+- Improving React.js & Full Stack Development skills
+- Building scalable web applications
+- Exploring AI integration in web projects
+- Improving my GitHub profile
 
 ---
 
-## 📫 Contact Me
-- GitHub: https://github.com/NaimaX-dev  
-- Email: naima56315@gmail.com  
+## 📫 Connect With Me
+
+📧 Email: naima56315@gmail.com  
+💻 GitHub: [NaimaX-dev](https://github.com/NaimaX-dev)
 
 ---
 
