@@ -1,88 +1,123 @@
-# Hi 👋 I'm Naima
+# Hi 👋 I'm Naima Abdul Majeed
 
-### 🎓 Final Year BS Computer Science Student | 💻 Full Stack Web Developer
+### Full Stack Developer | AI Enthusiast | BSCS Graduate (Result Awaited)
 
-🤖 Exploring Web Development & Artificial Intelligence
-
-🚀 Passionate about building real-world applications and solving problems through technology.
-
-🌱 Currently improving my skills in React.js, Node.js, Express.js, and Full Stack Development.
-
-🎯 Goal: To become a skilled Full Stack Developer and gain valuable industry experience.
+I am a passionate Full Stack Developer with a strong interest in building modern web applications and AI-powered solutions. I enjoy transforming ideas into practical products, learning new technologies, and working on projects that solve real-world problems.
 
 ---
 
-## 🛠️ Skills
+## 🚀 About Me
 
-### Frontend
+* 🎓 BS Computer Science Graduate (Result Awaited)
+* 💻 Focused on Full Stack Web Development
+* 🤖 Interested in Artificial Intelligence and NLP Applications
+* 🌱 Continuously improving my skills in React.js, Node.js, Express.js, and modern web technologies
+* 📍 Based in Pakistan
+* 🎯 Seeking opportunities to grow as a Software Developer and contribute to impactful projects
 
-* HTML
-* CSS
-* JavaScript
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
 * React.js
 * Tailwind CSS
+* Responsive Web Design
 
-### Backend
+### Backend Development
 
 * Node.js
 * Express.js
+* REST APIs
+* JWT Authentication
 
-### Database
+### Databases
 
 * MongoDB
 * MySQL
 
-### Tools
+### AI & NLP
+
+* Python
+* spaCy
+* Natural Language Processing (NLP)
+
+### Tools & Platforms
 
 * Git & GitHub
 * VS Code
 * Postman
+* Firebase
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🤖 TalentBridge AI – AI-Powered CV Analyzer & Job Portal (Final Year Project)
+### 🤖 TalentBridge AI
 
-An AI-powered platform designed to help job seekers analyze their resumes, identify skill gaps, and discover suitable job opportunities.
+**AI-Powered CV Analyzer & Job Portal**
 
-**Technologies Used:**
+A full-stack web application that helps job seekers analyze resumes, identify skill gaps, and discover relevant job opportunities through AI-driven insights.
 
-React.js | Node.js | Express.js | MongoDB | Python NLP
+**Highlights**
 
-**Key Features:**
-
-* CV Upload & AI Analysis
-* Skill Detection
-* Resume Scoring
-* Personalized Job Recommendations
+* AI-Based Resume Analysis
+* Resume Scoring & Feedback
+* Skill Extraction
+* Job Matching System
 * Employer Dashboard
+* Secure Authentication & Authorization
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, NLP
 
 ---
 
-## 📈 Currently Working On
+### 🔍 SEO Audit Agents
 
-* Improving React.js and Full Stack Development skills
-* Building real-world web applications
-* Exploring AI integration in web development
-* Enhancing my GitHub profile
+An automated SEO auditing system designed to crawl websites, analyze SEO issues, and generate actionable reports.
+
+**Highlights**
+
+* Website Crawling
+* Automated SEO Analysis
+* PDF & CSV Report Generation
+* AI-Assisted Recommendations
+* Multi-Agent Workflow
+
+**Tech Stack:** Python, SEO Analysis Tools, ReportLab, Local AI Models
 
 ---
 
-## 📊 GitHub Profile Views
+## 📚 Currently Learning
 
-![Profile Views](https://komarev.com/ghpvc/?username=NaimaX-dev\&label=Profile%20Views\&color=0e75b6\&style=flat)
+* Advanced React Development
+* Full Stack Development with AI
+* Modern API Architecture
+* AI Integration in Web Applications
+* Software Development Best Practices
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaimaX-dev\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimaX-dev\&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [naima56315@gmail.com](mailto:naima56315@gmail.com)
+📧 Email: **[naima56315@gmail.com](mailto:naima56315@gmail.com)**
 
-💻 GitHub: [NaimaX-dev](https://github.com/NaimaX-dev)
+💻 GitHub: **github.com/NaimaX-dev**
+
+💼 LinkedIn: **linkedin.com/in/naima-abdul-majeed-501671426**
 
 ---
 
-✨ Thanks for visiting my profile!
-
-
+### ✨ Building solutions, learning continuously, and growing one project at a time.
