@@ -1,123 +1,163 @@
-# Hi 👋 I'm Naima Abdul Majeed
+# Hi 👋, I'm Naima Abdul Majeed
 
-### Full Stack Developer | AI Enthusiast | BSCS Graduate (Result Awaited)
+### Full Stack Developer | React.js • Node.js • MySQL | AI Enthusiast
 
-I am a passionate Full Stack Developer with a strong interest in building modern web applications and AI-powered solutions. I enjoy transforming ideas into practical products, learning new technologies, and working on projects that solve real-world problems.
+I'm a BSCS graduate passionate about building practical web applications, business management systems, and AI-powered solutions. I enjoy solving real-world problems through software development and continuously improving my technical skills by building hands-on projects.
 
----
-
-## 🚀 About Me
-
-* 🎓 BS Computer Science Graduate (Result Awaited)
-* 💻 Focused on Full Stack Web Development
-* 🤖 Interested in Artificial Intelligence and NLP Applications
-* 🌱 Continuously improving my skills in React.js, Node.js, Express.js, and modern web technologies
-* 📍 Based in Pakistan
-* 🎯 Seeking opportunities to grow as a Software Developer and contribute to impactful projects
+- 🎓 BS Computer Science Graduate
+- 💻 Focused on Full Stack Web Development
+- 🤖 Interested in Artificial Intelligence and Natural Language Processing
+- 🚀 Building web applications and business management systems
+- 🌱 Continuously learning and improving my development skills
+- 🎯 Open to entry-level Software Developer and Full Stack Developer opportunities
+- 📍 Pakistan
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend Development
+**Frontend Development**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, React Router
+- Responsive Web Design
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-* Responsive Web Design
+**Backend Development**
+- Node.js, Express.js
+- REST APIs
+- JWT Authentication
 
-### Backend Development
+**Databases**
+- MySQL
+- MongoDB
 
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
+**AI & NLP**
+- Python
+- spaCy
+- Natural Language Processing (NLP)
 
-### Databases
+**Tools & Platforms**
+- Git and GitHub
+- VS Code
+- Postman
+- Firebase
 
-* MongoDB
-* MySQL
+---
 
-### AI & NLP
+## 🚧 Currently Working On
 
-* Python
-* spaCy
-* Natural Language Processing (NLP)
+### Universal CRM System — Customer Relationship Management
 
-### Tools & Platforms
+**Status:** In Progress
 
-* Git & GitHub
-* VS Code
-* Postman
-* Firebase
+Developing a CRM application focused on organizing customer inquiries, managing leads, and supporting customer-related workflows.
+
+**Current Focus**
+- Admin and Agent workflows
+- Lead and inquiry management
+- Lead status tracking
+- Supervisor approval workflow
+- Customer follow-up workflows
+- Frontend development and API integration
+
+**Tech Stack:** React.js, Vite, JavaScript, React Router, Custom CSS, REST APIs
+
+*Currently improving the application and working toward backend integration.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 TalentBridge AI
+### 1. Universal CRM System
 
-**AI-Powered CV Analyzer & Job Portal**
-
-A full-stack web application that helps job seekers analyze resumes, identify skill gaps, and discover relevant job opportunities through AI-driven insights.
+A Customer Relationship Management application under development to help organize customer inquiries, lead management, and business workflows.
 
 **Highlights**
+- Admin and Agent workflows
+- Lead lifecycle management
+- Supervisor approval process
+- Customer follow-up workflows
 
-* AI-Based Resume Analysis
-* Resume Scoring & Feedback
-* Skill Extraction
-* Job Matching System
-* Employer Dashboard
-* Secure Authentication & Authorization
+**Tech Stack:** React.js, Vite, JavaScript, React Router, Custom CSS, REST APIs
+
+**Status:** In Progress
+
+### 2. Dizoora — Sales & Purchase Management System
+
+A full-stack business management application designed to organize inventory, purchasing, sales, and installation workflows.
+
+**Highlights**
+- Product, supplier, and customer management
+- Purchase and inventory tracking
+- Stock allocation to installation teams
+- Installation workflow tracking
+- Sales management and reporting
+- Product serial number management
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL
+
+🔗 [View Source Code on GitHub](https://github.com/NaimaX-dev/dizoora-sales-purchase-management)
+
+**Status:** Development Project
+
+### 3. TalentBridge AI — AI-Powered CV Analyzer & Job Portal
+
+A full-stack academic project designed to help job seekers analyze resumes, identify skills, and explore relevant job opportunities.
+
+**Highlights**
+- Resume analysis and skill extraction
+- Resume scoring and feedback
+- Job matching functionality
+- Employer dashboard
+- Authentication and role-based access
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, NLP
 
----
+🔗 [View Source Code on GitHub](https://github.com/NaimaX-dev/AI-CV-Project)
 
-### 🔍 SEO Audit Agents
+**Status:** Academic Project
 
-An automated SEO auditing system designed to crawl websites, analyze SEO issues, and generate actionable reports.
+### 4. SEO Audit Agents
+
+An automated SEO auditing project designed to crawl websites, identify SEO issues, and generate actionable reports.
 
 **Highlights**
+- Website crawling and SEO analysis
+- Automated issue detection
+- SEO report generation
+- AI-assisted recommendations
+- Multi-agent workflow
 
-* Website Crawling
-* Automated SEO Analysis
-* PDF & CSV Report Generation
-* AI-Assisted Recommendations
-* Multi-Agent Workflow
+**Tech Stack:** Python, Flask, SEO Analysis Tools, Local AI Models
 
-**Tech Stack:** Python, SEO Analysis Tools, ReportLab, Local AI Models
+**Status:** Development Project
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced React Development
-* Full Stack Development with AI
-* Modern API Architecture
-* AI Integration in Web Applications
-* Software Development Best Practices
+- JavaScript and Advanced React.js
+- Full Stack Application Development
+- REST API design and integration
+- Backend development and database integration
+- AI integration in web applications
+- Software development best practices
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaimaX-dev\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaimaX-dev&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimaX-dev\&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **[naima56315@gmail.com](mailto:naima56315@gmail.com)**
-
-💻 GitHub: **github.com/NaimaX-dev**
-
-💼 LinkedIn: **linkedin.com/in/naima-abdul-majeed-501671426**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimaX-dev&layout=compact&hide_border=true)
 
 ---
 
-### ✨ Building solutions, learning continuously, and growing one project at a time.
+## 🤝 Let's Connect
+
+- 📧 Email: [naima56315@gmail.com](mailto:naima56315@gmail.com)
+- 💻 GitHub: [NaimaX-dev](https://github.com/NaimaX-dev)
+- 💼 LinkedIn: [Naima Abdul Majeed](https://www.linkedin.com/in/naima-abdul-majeed-501671426/)
+
+---
+
+*Building practical solutions, learning continuously, and growing through every project.* ✨
