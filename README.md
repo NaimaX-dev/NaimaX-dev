@@ -197,7 +197,9 @@ An automated SEO auditing application designed to crawl websites, identify techn
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![Snake Animation](https://raw.githubusercontent.com/NaimaX-dev/NaimaX-dev/output/github-contribution-grid-snake-dark.svg)
+
+![Purple Snake](https://raw.githubusercontent.com/NaimaX-dev/NaimaX-dev/output/github-contribution-grid-snake.svg)
+
 
 ---
 
