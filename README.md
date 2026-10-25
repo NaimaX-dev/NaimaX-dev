@@ -1,136 +1,214 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:4338CA,70:7C3AED,100:06B6D4&height=240&section=header&text=Naima%20Abdul%20Majeed&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%7C%20Node.js%20%7C%20AI&descSize=17&descAlignY=59" alt="Naima Abdul Majeed banner" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Naima%20Abdul%20Majeed&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Real-World+Web+Applications;Creating+Business+Management+Systems;Exploring+AI-Powered+Solutions;Open+to+Junior+Developer+Opportunities" alt="Animated introduction" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Profile!;Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+MySQL;Turning+Ideas+Into+Real+Solutions)
 
+![Profile Views](https://komarev.com/ghpvc/?username=NaimaX-dev&label=Profile+Views&color=7c3aed&style=for-the-badge)
 
-<a href="https://www.linkedin.com/in/naima-abdul-majeed-501671426/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:naima56315@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/NaimaX-dev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My%20Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=NaimaX-dev&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views" />
-</div>
-
-✨ About Me
-I'm a BS Computer Science graduate and Full Stack Developer who enjoys building useful, user-friendly software—from inventory platforms and CRM systems to AI-assisted applications.
-- 💼 Experience: Full Stack Development Intern at Red Code Technology
-- 🧩 I build: React interfaces, REST API integrations, business workflows, and full-stack applications
-- 🤖 Interests: Artificial Intelligence, NLP, and practical automation
-- 🎯 Open to: Junior Full Stack Developer, React Developer, and Software Developer roles
-- 📍 Location: Pakistan
-🌟 Featured Project Showcase
-Selected work: Four projects demonstrating business applications, full-stack engineering, and AI integration.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🤖 TalentBridge AI
-AI-Powered CV Analyzer & Job Portal
-<img src="https://img.shields.io/badge/ACADEMIC%20PROJECT-7C3AED?style=flat-square" alt="Academic project" />
-
-
-Resume analysis, skill extraction, job matching, employer dashboard, and role-based authentication.
-
-Built with: React · Node.js · Express · MongoDB · Python · NLP
-
-<a href="https://github.com/NaimaX-dev/AI-CV-Project"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" alt="TalentBridge source" /></a>
-<a href="https://talentbridge-ai-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="TalentBridge live demo" /></a>
-</td>
-<td width="50%" valign="top">
-
-📦 Dizoora
-Sales & Purchase Management System
-<img src="https://img.shields.io/badge/FULL%20STACK-2563EB?style=flat-square" alt="Full stack project" />
-
-
-Inventory, purchases, sales, serial-number tracking, technician allocation, installation workflows, and reports.
-
-Built with: React · Node.js · Express · MySQL
-
-<a href="https://github.com/NaimaX-dev/dizoora-sales-purchase-management"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" alt="Dizoora source" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-💼 Universal CRM
-Customer Relationship Management
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-F59E0B?style=flat-square" alt="In development" />
-
-
-Customers, leads, follow-ups, quotations, invoices, payments, reporting, and admin/agent workflows.
-
-Built with: React · Vite · JavaScript · PHP · MySQL · REST APIs
-
-Ongoing improvements and testing.
-</td>
-<td width="50%" valign="top">
-
-🔎 SEO Audit Agents
-Automated Website SEO Analysis
-<img src="https://img.shields.io/badge/AI%20%2B%20AUTOMATION-8B5CF6?style=flat-square" alt="AI and automation project" />
-
-
-Website crawling, technical SEO issue detection, automated reporting, and AI-assisted recommendations.
-
-Built with: Python · Flask · SEO tools · Local AI models
-
-Development project.
-</td>
-</tr>
-</table>
-
-📌 Project repositories and live demos are linked where publicly available.
-
-🛠️ Technologies I Work With
-<div align="center">
-
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="Frontend technologies" />
-
-
-Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb&theme=dark" alt="Backend technologies" />
-
-
-AI & Developer Tools
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman,firebase&theme=dark" alt="AI and development tools" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naima-abdul-majeed-501671426/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naima56315@gmail.com)
 
 </div>
 
+---
 
-Also familiar with: React Router · REST APIs · JWT Authentication · Responsive UI · Custom CSS · spaCy · NLP
-📈 GitHub Activity
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaimaX-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimaX-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
-<br />
-<img src="https://streak-stats.demolab.com?user=NaimaX-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+## 💜 ABOUT ME
 
 </div>
 
-🐍 My Contribution Journey
+> 👩‍💻 **Full Stack Developer | BS Computer Science Graduate**
+>
+> I'm passionate about building modern web applications, business management systems, and AI-powered solutions. I enjoy solving real-world problems through practical software development.
+
+- 💼 Full Stack Development Intern at **Red Code Technology**
+- 🔭 Working on **Universal CRM and Business Applications**
+- 🌱 Learning Advanced React, JavaScript and Backend Development
+- 🤖 Interested in Artificial Intelligence and NLP
+- 🎯 Open to Junior Full Stack and Software Developer roles
+- 📍 Pakistan
+
+---
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/NaimaX-dev/NaimaX-dev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
+## 🛠️ TECH STACK & SKILLS
+
+### 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI, Tools & Platforms
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+**Additional Skills:** REST APIs • JWT • React Router • spaCy • NLP • Responsive Web Design
+
 </div>
 
+---
+
 <div align="center">
 
-🤝 Let's Build Something Useful
-<a href="mailto:naima56315@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/naima-abdul-majeed-501671426/"><img src="https://img.shields.io/badge/Connect-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+## 🚀 FEATURED PROJECT SHOWCASE
 
+### 💜 Project 01 — TalentBridge AI
 
+![TalentBridge](https://placehold.co/900x170/F2EAFE/6D28D9/png?text=TalentBridge+AI+%7C+AI-Powered+CV+Analyzer)
 
+**AI-Powered CV Analyzer & Job Portal**
 
-<i>“Building practical solutions, learning continuously, and growing through every project.”</i>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=110&section=footer" alt="Footer wave" />
+</div>
+
+A full-stack academic project designed to help job seekers analyze resumes, extract skills and discover relevant job opportunities.
+
+**✨ Key Features**
+
+- AI-powered resume analysis
+- Skill extraction and CV feedback
+- Job matching and recommendations
+- Employer dashboard
+- Role-based authentication
+
+**🛠 Tech Stack:** React.js • Node.js • Express.js • MongoDB • Python • NLP
+
+<div align="center">
+
+[![Source Code](https://img.shields.io/badge/View_Source_Code-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaimaX-dev/AI-CV-Project)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://talentbridge-ai-xi.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Project 02 — Dizoora
+
+![Dizoora](https://placehold.co/900x170/E9F3FF/1D4ED8/png?text=Dizoora+%7C+Sales+and+Purchase+Management)
+
+**Sales & Purchase Management System**
+
+</div>
+
+A full-stack business management system for managing inventory, suppliers, customers, purchases, sales and installation operations.
+
+**✨ Key Features**
+
+- Inventory and stock management
+- Purchase and sales tracking
+- Product serial number management
+- Technician allocation
+- Installation workflows
+- Business reports
+
+**🛠 Tech Stack:** React.js • Node.js • Express.js • MySQL
+
+<div align="center">
+
+[![Source Code](https://img.shields.io/badge/View_Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaimaX-dev/dizoora-sales-purchase-management)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Project 03 — Universal CRM
+
+![Universal CRM](https://placehold.co/900x170/E8F8F1/047857/png?text=Universal+CRM+%7C+Customer+Relationship+Management)
+
+**Customer Relationship Management System**
+
+![Status](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)
+
+</div>
+
+A business-focused CRM application designed to streamline customer relationships, lead management, follow-ups and daily business operations.
+
+**✨ Key Features**
+
+- Admin and Agent workflows
+- Customer and lead management
+- Follow-up tracking
+- Services and packages
+- Quotations, invoices and payments
+- Business reporting
+
+**🛠 Tech Stack:** React.js • Vite • JavaScript • PHP • MySQL • REST APIs
+
+---
+
+<div align="center">
+
+### 🧡 Project 04 — SEO Audit Agents
+
+![SEO Audit](https://placehold.co/900x170/FFF1E6/C2410C/png?text=SEO+Audit+Agents+%7C+AI+Automation)
+
+**AI-Assisted SEO Auditing Application**
+
+</div>
+
+An automated SEO auditing application designed to crawl websites, identify technical SEO issues and generate actionable reports.
+
+**✨ Key Features**
+
+- Automated website crawling
+- SEO issue detection
+- AI-assisted recommendations
+- SEO report generation
+- Multi-agent workflows
+
+**🛠 Tech Stack:** Python • Flask • SEO Tools • Local AI Models
+
+---
+
+<div align="center">
+
+## 📊 GITHUB STATISTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaimaX-dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimaX-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NaimaX-dev&theme=tokyonight&hide_border=true)
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+![Snake Animation](https://raw.githubusercontent.com/NaimaX-dev/NaimaX-dev/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🤝 LET'S CONNECT
+
+[![GitHub](https://img.shields.io/badge/GitHub-NaimaX--dev-181717?style=for-the-badge&logo=github)](https://github.com/NaimaX-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naima_Abdul_Majeed-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naima-abdul-majeed-501671426/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naima56315@gmail.com)
+
+### ✨ Building practical solutions, one project at a time.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=120&section=footer)
 
 </div>
