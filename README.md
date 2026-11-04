@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Practical+Web+Applications;Developing+Full+Stack+Solutions;Exploring+AI%2C+NLP+%26+Automation;Learning+%7C+Building+%7C+Growing" alt="Typing introduction"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/NaimaX-dev">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -43,6 +43,7 @@ I enjoy transforming ideas into functional applications by working across fronte
 ## 💼 Professional Experience
 
 ### Full Stack Development Intern
+
 **Red Code Technology** | September 2026 – Present
 
 - Contributing to frontend and backend development tasks.
@@ -206,41 +207,72 @@ A field service management application focused on helping service businesses org
 
 ## 🧰 Technical Skills
 
-### Frontend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap&perline=6" alt="Frontend technologies"/>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-`HTML5` `CSS3` `JavaScript` `React.js` `React Router` `Vite` `Bootstrap` `Responsive Design`
+### 🎨 Frontend Development
 
-### Backend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap&perline=3" alt="Frontend Skills"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&perline=4" alt="Backend technologies"/>
-</p>
+`HTML5` · `CSS3` · `JavaScript`
 
-`Node.js` `Express.js` `PHP` `Python` `REST API Development` `Backend Logic`
+`React.js` · `Vite` · `Bootstrap`
 
-### Databases & Services
+</td>
+<td align="center" width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&perline=4" alt="Database technologies"/>
-</p>
+### ⚙️ Backend Development
 
-`MySQL` `MongoDB` `Firebase` `Supabase`
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&perline=4" alt="Backend Skills"/>
 
-### Tools & Development Workflow
+`Node.js` · `Express.js`
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Development tools"/>
-</p>
+`PHP` · `Python` · `REST APIs`
 
-`Git` `GitHub` `VS Code` `Postman` `Debugging` `API Testing`
+</td>
+</tr>
 
-### Additional Technical Knowledge
+<tr>
+<td align="center" width="50%">
 
-`JWT Authentication` `Role-Based Access Control` `CRUD Operations` `NLP` `AI Integration` `Automation`
+### 🗄️ Databases & Services
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&perline=4" alt="Database Skills"/>
+
+`MySQL` · `MongoDB`
+
+`Firebase` · `Supabase`
+
+</td>
+<td align="center" width="50%">
+
+### 🔧 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Development Tools"/>
+
+`Git` · `GitHub`
+
+`VS Code` · `Postman`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💡 Additional Technical Knowledge
+
+<img src="https://img.shields.io/badge/REST_APIs-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role_Based_Access-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Integration-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-2563EB?style=for-the-badge"/>
+
+</div>
 
 ---
 
