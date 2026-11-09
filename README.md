@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:312E81,75:4F46E5,100:06B6D4&height=210&section=header&text=Naima%20Abdul%20Majeed&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20WEB%20APPLICATIONS%20%7C%20AI&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="Naima Abdul Majeed"/>
@@ -56,8 +56,6 @@ I enjoy transforming ideas into functional applications by working across fronte
 ---
 
 ## 🚀 Featured Projects
-
-A selection of practical and academic projects demonstrating my experience with web development, business management systems, AI applications, and automation.
 
 ### 01. Universal CRM
 
@@ -331,4 +329,3 @@ I'm always interested in connecting with developers, collaborating on meaningful
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:4F46E5,75:312E81,100:0F172A&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
-```
